@@ -1,28 +1,41 @@
 # AI Email Marketing Automation
 
-## By Aidan Pressler
+### By Aidan Pressler
 
-This project demonstrates how AI can be used alongside marketing best practices to create, optimize, and analyze lifecycle email campaigns.
+## Overview
 
-## Project Goals
+This portfolio project demonstrates how I would design and optimize an AI-assisted lifecycle email marketing program for a direct-to-consumer e-commerce company.
 
-- Build automated email journeys
-- Segment customers
-- Create personalized messaging
-- Improve engagement
-- Measure campaign performance
-- Use AI to increase productivity
+The objective was to improve customer engagement, recover abandoned carts, increase repeat purchases, and create personalized customer experiences using marketing automation principles.
+
+Although this is a fictional company, the workflows, strategy, KPIs, and automation logic are based on real-world email marketing best practices.
+
+---
+
+## Business Goals
+
+- Increase first-time purchases
+- Recover abandoned carts
+- Improve customer retention
+- Increase customer lifetime value
+- Personalize communication
+- Optimize campaign performance using A/B testing
+
+---
 
 ## Skills Demonstrated
 
-- Email Marketing
 - Lifecycle Marketing
+- Email Automation
 - CRM Strategy
 - Customer Segmentation
-- Marketing Analytics
+- AI Prompt Engineering
 - A/B Testing
-- Prompt Engineering
+- Marketing Analytics
 - Campaign Optimization
+- Copywriting
+
+---
 
 ## Tools
 
@@ -30,14 +43,21 @@ This project demonstrates how AI can be used alongside marketing best practices 
 - GitHub
 - Canva
 - Google Sheets
-- ActiveCampaign Concepts
+- ActiveCampaign (conceptual)
+- Klaviyo (conceptual)
 
-## Project Sections
+---
 
+## Project Structure
+
+- Customer Personas
+- Segmentation Strategy
 - Welcome Series
-- Abandoned Cart
 - Browse Abandonment
-- Post-Purchase
-- Win-Back Campaign
+- Abandoned Cart
+- Post Purchase
+- Win-back Campaign
+- VIP Customer Flow
+- A/B Testing
 - KPI Dashboard
 - AI Prompt Library
