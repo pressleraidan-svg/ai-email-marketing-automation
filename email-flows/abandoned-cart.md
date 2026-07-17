@@ -1,41 +1,62 @@
-# Abandoned Cart Email Flow
+# Abandoned Cart Campaign
 
-## Goal
+## Objective
 
-Encourage customers to complete their purchase after leaving items in their cart.
-
----
-
-## Email 1 (4 hours later)
-
-**Subject:** You left something behind.
-
-**Objective:**
-Remind the customer about the items in their cart and provide a direct link back to checkout.
-
-**CTA:**
-Return to Your Cart
+Recover lost sales by reminding customers about products left in their shopping cart.
 
 ---
 
-## Email 2 (24 hours later)
+## Trigger
 
-**Subject:** Still thinking it over?
+Customer adds products to the cart but does not complete checkout.
 
-**Objective:**
-Highlight customer reviews, free shipping, and answer common questions.
+---
 
-**CTA:**
+## Email 1
+
+**Send:** 1 Hour After Abandonment
+
+### Message
+
+A friendly reminder that items are still waiting.
+
+### CTA
+
+Return to Cart
+
+---
+
+## Email 2
+
+**Send:** 24 Hours Later
+
+### Message
+
+Highlight customer reviews and product benefits.
+
+### CTA
+
 Complete Your Order
 
 ---
 
-## Email 3 (48 hours later)
+## Email 3
 
-**Subject:** Here's 10% off before your cart expires.
+**Send:** 72 Hours Later
 
-**Objective:**
-Create urgency by offering a limited-time discount to encourage conversion.
+### Message
 
-**CTA:**
-Redeem Your Discount
+Offer a limited-time discount to encourage purchase.
+
+### CTA
+
+Redeem Offer
+
+---
+
+## Success Metrics
+
+- Cart Recovery Rate
+- Click-Through Rate
+- Revenue Recovered
+- Conversion Rate
