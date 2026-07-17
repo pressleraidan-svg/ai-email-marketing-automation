@@ -1,3 +1,5 @@
+![Banner](images/banner.png)
+
 # AI Email Marketing Automation
 
 ## Created by Aidan Pressler
